@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshjakhar7988u&label=Profile%20views&color=0e75b6&style=flat" alt="vanshjakhar7988u" /> </p>
 
-- Current company **Wipro**
+- 🔭 I’m currently working at **WIPRO**
 
 - 🌱 I’m currently learning **React-Native**
 
