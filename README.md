@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshjakhar7988u&label=Profile%20views&color=0e75b6&style=flat" alt="vanshjakhar7988u" /> </p>
 
-- 🔭 I’m currently working at **WIPRO**
+- 🔭 I’m currently working at **COMVISION**
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **Database-Migration**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vanshjakhar7988u/](https://github.com/vanshjakhar7988u/)
 
-- 💬 Ask me about **Java , JavaScript , React.js ,Node.js , Express.js , MongoDB , MYSQL**
+- 💬 Ask me about **Java , Python , Javascript ,Node.js , Express.js , MongoDB , MYSQL, PostgreSQL, Oracle, Data Migration, AWS, GIT**
 
 - 📫 How to reach me **vanshj2288@gmail.com**
 
